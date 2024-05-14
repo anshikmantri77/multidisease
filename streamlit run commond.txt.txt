@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Administrator\OneDrive\Desktop\multidiease\mutli disease pred.py"
